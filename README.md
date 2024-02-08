@@ -10,8 +10,8 @@ To run this program, you need to have Go installed on your machine. You can veri
 If you do not have Go installed, please follow the instructions on the official Go website to download and install it.
 
 ## Running the Program
-1. Open a terminal and navigate to the directory containing your voteEligibility.go file.
-2. Execute the program by running: go run voteEligibility.go
+1. Open a terminal and navigate to the directory containing your main.go file.
+2. Execute the program by running: go run main.go
 3. Follow the on-screen prompts to enter your age and see whether you are eligible to vote.
 
 ## How It Works
